@@ -27,7 +27,7 @@ This project demonstrates using a PIC16F4550 microcontroller to read an analog i
 ---
 
 ## ⚡ Circuit Diagram
-
+![image alt](https://github.com/faizan-alf/ADC/blob/4820a1cc68223f4755b60ffcd67bfae6a6f0858f/adc.png)
 
 
 ## 📄 Source Code
